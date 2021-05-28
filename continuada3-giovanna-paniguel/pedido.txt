@@ -1,6 +1,0 @@
-01Pedidos e Cupcakes27-05-202101
-02   Chocolate2021-06-0923.90
-02     Morango2021-05-2020.80
-02       Menta2021-07-2340.70
-03                    Katia              Viagem01
-03                    Sarah              Viagem02
